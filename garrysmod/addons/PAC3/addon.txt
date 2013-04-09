@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "PAC3"
+	"author_name" "Capsadmin"
+	"info" "Crater for director 2013"
+}

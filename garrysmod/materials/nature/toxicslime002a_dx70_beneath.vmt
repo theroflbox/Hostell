@@ -1,0 +1,22 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Nature/toxicslime002a"
+	"$abovewater" 0
+	"%compilewater" 1
+	"$surfaceprop" "slime"
+
+	"$fogenable" 1
+	"$fogcolor" "{7 12 1}"
+	"$fogstart" 1.00
+	"$fogend" 60.00
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 21.00
+		}
+	}
+}
