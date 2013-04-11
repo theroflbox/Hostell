@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "brick/brickwall049a"
+	"$surfaceprop" "brick"
+
+
+	"%keywords" "c17industrial,wasteland"
+	"$bumpmap" "brick/brickwall049a_normal"
+	"$parallaxmap" "brick/brickwall049a_height"
+	"$parallaxmapscale" ".005"
+}

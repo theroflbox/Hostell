@@ -1,4 +1,4 @@
-//SoundScapes for GM_apoc
+//SoundScapes for rp_apoc
 
 
 
@@ -39,7 +39,8 @@
 			"wave" "ambient\atmosphere\cave_hit5.wav"
 			"wave" "ambient\atmosphere\cave_hit6.wav"
 			"wave" "ambient\atmosphere\cave_outdoor1.wav"
-	
+			
+			"wave" "ambient\voices\playground_memory.wav"
 			
 			"wave" "ambient\wind\windgust.wav"
 			"wave" "ambient\wind\wind_snippet3.wav"
@@ -306,7 +307,7 @@
 
 	"playrandom"
 	{
-		"volume"	"0.3,.8"
+		"volume"	"0.6,1"
 		"time"		"15.0, 65.0"
 		"pitch"		"90,130"
 		"position"	"random"
@@ -328,14 +329,14 @@
 
          "playlooping" 
          { 
-                "volume"       ".2" 
-                "pitch"        "100" 
+                "volume"       ".96" 
+                "pitch"        "145" 
                 "wave"         "ambient\ambience\wind_light02_loop.wav" 
          }
  	 "playlooping" 
          { 
-                "volume"       ".1" 
-                "pitch"        "80" 
+                "volume"       ".4" 
+                "pitch"        "100" 
                 "wave"         "vehicles\fast_windloop1.wav" 
          }	
 

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\razor\toilet"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\razor\toilet_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .2 .2 .2]"
+}
+

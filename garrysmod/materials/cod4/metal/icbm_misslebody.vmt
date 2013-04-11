@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cod4/metal/icbm_misslebody"
+	"$surfaceprop" "Metal"
+}

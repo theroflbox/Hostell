@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+ 	"$hdrbaseTexture" "hazard24/skyapoc05lf"	
+   	"$nofog" "1"
+   	"$ignorez" "1"
+	"$basetexture" "hazard24/skyapoc05lf"	
+}

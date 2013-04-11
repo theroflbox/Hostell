@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ConvertPWr3D\zver"
+        "$envmap" "env_cubemap"
+        "$envmapcontrast" "1"
+	"$envmapmask" "models/ConvertPWr3D\mask"
+}

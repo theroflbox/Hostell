@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "plaster/plasterceiling008a"
+	"$surfaceprop"  "plaster"
+
+	"%keywords" "c17skyscraper"
+	"vertexlitgeneric_dx9"
+	{
+		"$bumpmap" "plaster/plasterceiling008a_normal"
+	}
+}

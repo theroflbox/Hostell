@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/dirtfloor004a"
+	"$basetexture2" "nature/rockwall003a"
+
+	"$basetexturetransform" "center 2 2 scale .35 .35 rotate 0 translate -.34 -.34"
+	"$basetexturetransform2" "center 1 1 scale 4 4 rotate 0  translate 0 0"
+ 
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "dirt"
+
+
+
+	"$detail" "detail/rock_detail_01"
+	"$detailscale" "4"
+	"$detailblendfactor" ".6"
+	"$detailblendmode" "0"
+
+}

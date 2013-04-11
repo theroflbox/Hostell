@@ -1,0 +1,36 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hazard24\clouds"
+	"$translucent" "1"
+
+
+
+		$distancealpha	1
+	
+	$softedges		1
+	$edgesoftnessstart	.3
+	$edgesoftnessend	.9
+	$scaleedgesoftnessbasedonscreenres 1
+	
+	$glow		1
+	$glowcolor	"[0 0 0]"
+	$glowalpha	.1
+	$glowstart	.1
+	$glowend	.2
+	//$glowx	.98
+	//$glowy	.98
+
+	
+
+	
+
+		"Proxies"
+		{
+			"TextureScroll"
+			{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.004
+			"texturescrollangle" 25.00
+			}
+		}
+}

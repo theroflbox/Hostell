@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTexture
+	$hdrbaseTexture "skybox/sky_apoc07_hdrbk"
+	"$basetexture" "skybox/sky_apoc07bk"
+	"$nofog" 1
+	$ignorez 1
+}

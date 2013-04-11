@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/bunker_metalwall03a"
+	"$surfaceprop"	"metal"
+	"%keywords" 	"ep2"
+}

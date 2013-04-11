@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/dirtfloor004a"
+	"$basetexture2" "nature/rockfloor002a"
+	"%tooltexture" "nature/blendsandrock004a_tooltexture"
+	"%keywords" "wasteland"
+	"$surfaceprop" "sand"
+        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0  translate 0 0"
+        "$basetexturetransform2" "center 4 4 scale 12 12 rotate 0 translate 0 0"
+
+
+	"$detail" "detail/rock_detail_01"
+	"$detailscale" "1"
+	"$detailblendfactor" ".6"
+	"$detailblendmode" "0"
+	
+}

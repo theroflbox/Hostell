@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalwall084b"
+	"$surfaceprop"  "metal"
+
+	"%keywords" "c17industrial,wasteland"
+}

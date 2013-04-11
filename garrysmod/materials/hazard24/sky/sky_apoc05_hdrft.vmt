@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$hdrbaseTexture" "skybox/sky_apoc05_hdrft"
+	"$basetexture" "skybox/sky_apoc05ft"
+	"$nofog" 1
+	$ignorez 1
+}

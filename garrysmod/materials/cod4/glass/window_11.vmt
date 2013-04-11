@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cod4/glass/window_11"
+	"$surfaceprop" "Wood_Solid"
+	"$translucent" 1
+}

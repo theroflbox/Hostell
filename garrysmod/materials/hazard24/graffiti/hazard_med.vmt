@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hazard24/graffiti/hazard_med"
+$decal		1
+	$decalscale	0.1
+	$translucent	1
+
+}

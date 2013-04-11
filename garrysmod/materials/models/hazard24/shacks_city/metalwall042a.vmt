@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalwall042a"
+	"$surfaceprop"  "metal"
+
+	"$bumpmap" "metal/metalwall042a_normal"
+	"%keywords" "combine"
+}

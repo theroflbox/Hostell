@@ -1,0 +1,8 @@
+"worldvertextransition"
+{
+"$basetexture" "hazard24/blend/concreteblend"
+"$basetexture2" "hazard24/blend/rockblend"
+"$surfaceprop" "dirt"
+"$surfaceprop2" dirt"
+"%tooltexture" "maps/blend/cliffblend"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "concrete/concretewall074a"
+	"$surfaceprop" "concrete"
+	
+	"%keywords" "airexchange"
+}

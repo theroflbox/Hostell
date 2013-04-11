@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/dirtfloor004a"
+	"$basetexture2" "nature/dirtfloor001a"
+	"%tooltexture" "nature/blenddirtdirt001a_tooltexture"
+	"%detailtype" "citygrass01"
+	"%keywords" "wasteland"
+
+
+	"$detail" "detail/rock_detail_01"
+	"$detailscale" "1"
+	"$detailblendfactor" ".6"
+	"$detailblendmode" "0"
+}

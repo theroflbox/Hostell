@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cod4/walls/wall_twocolors_plaster"
+	"$surfaceprop" "Concrete"
+}

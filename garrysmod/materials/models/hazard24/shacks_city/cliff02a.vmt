@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nature\cliff02a"
+	"$surfaceprop" "concrete"
+	"%keywords" "ep2"
+	"$bumpmap" "nature\cliff02a-ssbump"
+	"$ssbump" "1"
+
+}
